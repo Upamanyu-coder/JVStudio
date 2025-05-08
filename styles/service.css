@@ -636,11 +636,10 @@ p {
     .element.style { 
         flex-direction: column;
     }
-    .servicess-card {
-        flex-direction: column;
-    }
+
     
     .servicess-image {
+        flex-direction: column-reverse;
         width: 100%;
         min-height: 300px;
         order: -1;

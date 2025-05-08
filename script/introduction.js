@@ -78,7 +78,7 @@ const lines = [
       `Message:\n${message}`
     );
 
-    const mailtoLink = `mailto:jvyapars@gmail.com?cc=yubrajdhakal0707@gmail.com&subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:info@jvstudio.com.np?cc=ceo@jvstudio.com.np&subject=${subject}&body=${body}`;
 
     window.location.href = mailtoLink;
 
@@ -212,8 +212,8 @@ const lines = [
 
     // Prepare email parameters
     const emailParams = {
-      to_email: 'jvyapars@gmail.com',
-      cc_email: 'yubrajdhakal0707@gmail.com',
+      to_email: 'info@jvstudio.com.np',
+      cc_email: 'ceo@jvstudio.com.np',
       from_name: formData.name,
       from_email: formData.email,
       phone: formData.phone,

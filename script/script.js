@@ -146,7 +146,7 @@ document.getElementById("quoteForm").addEventListener("submit", function (e) {
     `Message:\n${message}`
   );
 
-  const mailtoLink = `mailto:jvyapars@gmail.com?cc=yubrajdhakal0707@gmail.com&subject=${subject}&body=${body}`;
+  const mailtoLink = `mailto:info@jvstudio.com.np?cc=script/script.js&subject=${subject}&body=${body}`;
 
   window.location.href = mailtoLink;
 
