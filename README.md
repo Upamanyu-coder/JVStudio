@@ -3,7 +3,6 @@
 **Professional Design & Development Studio**  
 *Crafting digital experiences that inspire and deliver results.*
 
-![JVStudio Banner](https://example.com/path-to-your-banner-image.jpg) *(Replace with actual image URL)*
 
 ## 🌟 About Us
 JVStudio is a creative agency specializing in:
@@ -29,17 +28,20 @@ We help businesses and individuals establish a powerful online presence with cus
 *(Add/remove tools based on your stack)*
 
 ## ✨ Featured Projects
-1. **[Project Name 1](https://example.com)** - Brief description (e.g., "E-commerce site with React")
-2. **[Project Name 2](https://example.com)** - Brief description
-3. **[Project Name 3](https://example.com)** - Brief description
+1. **[Sanskrit Vidhya Sannyas Ashram Bhairahawa]((https://www.sanskritvidhyasannyasashram.org.np/))** 
+2. **[CSIT Association of BMC]((https://www.csitabmc.com/))** 
+3. **[BMC Innovatex]((https://innovatex.csitabmc.com/))** 
+4. **[Sweet Shop]((https://misthana-bhandar.vercel.app/))** 
+5. **[Gracathon]((https://gracathon.vercel.app/))**
+6. **[Nabina Curry]((https://www.nabinacurry.com/))**
+7. **[Protfolio-Yubraj]((https://www.yubrazdhakal.com.np/))**
+8. **[Landing_page-Sancila]((https://www.renukabhandari.com.np/))** 
 
 ## 📞 Get in Touch
 Let’s collaborate on your next project!
-- **Email**: [contact@jvstudio.com](mailto:contact@jvstudio.com) *(Replace with your email)*
-- **Website**: [https://jvstudio.com](https://jvstudio.com) *(Replace with your actual URL)*
-- **Social Media**:  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/company/yourprofile)
+- **Email**: [contact@jvstudio.com](mailto:contact@jvstudio.com) 
+- **Website**: [https://jvstudio.com](https://jvstudio.com) 
+
 
 ## 📌 License
 All projects are © JVStudio. Unauthorized use is prohibited.
@@ -47,4 +49,4 @@ All projects are © JVStudio. Unauthorized use is prohibited.
 ---
 
 *"Design is intelligence made visible."* — Alina Wheeler  
-*Crafted with ❤️ by the JVStudio team.*
+*Crafted with ❤️ by the Yubraj Dhakal Upamanyu** ((https://www.yubrazdhakal.com.np/))**
