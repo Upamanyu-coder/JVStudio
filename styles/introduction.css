@@ -513,10 +513,11 @@ body {
 .team-member {
     width: 300px;
     background: #fff;
+    border: 2px solid transparent;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
+    transition: border 1.5s ease;
     position: relative;
 }
 
