@@ -74,14 +74,14 @@
 
                 <button onclick="openModal()" class="cta-button">Request A Quote</button>
 
-                                    <!-- Modal Structure -->
+                                      <!-- Modal Structure -->
                     <div id="quoteModal" class="modal">
                         <div class="modal-content">
                             <span class="close" onclick="closeModal()">&times;</span>
                             <h2>Request a Quote</h2>
-                            <form id="quoteForm">
-                              <input type="text" id="name" placeholder="Your Name" required />
-                              <input type="email" id="email" placeholder="Your Email" required />
+                            <form form action="https://formsubmit.co/info@jvstudio.com.np" method="POST" id="quoteForm">
+                              <input type="text" name="Client Name" id="name" placeholder="Your Name" required />
+                              <input type="email" name="Email" id="email" placeholder="Your Email" required />
                         
                               <div style="display: flex; gap: 10px;">
                                     <select name="country" id="country" required>
@@ -320,10 +320,19 @@
                                      </select>
                                 </select>
 
-                                <input type="tel" id="phone" placeholder="Phone Number" required style="width: 70%;" />
+                                <input type="tel" name="Phone Number" id="phone" placeholder="Phone Number" required style="width: 70%;" />
                               </div>
+
+                              <select id="subject" name="subject">
+                                <option value="">Select a subject</option>
+                                <option value="general">General Inquiry</option>
+                                <option value="support">Technical Support</option>
+                                <option value="sales">Sales Question</option>
+                                <option value="feedback">Feedback</option>
+                              </select>
                         
-                              <textarea id="message" placeholder="Special Message" rows="4" required></textarea>
+                              <textarea id="message" name="Message" placeholder="Special Message" rows="4" required></textarea>
+                              <input type="hidden" name="_next" value="https://www.jvstudio.com.np/contact.html">
                               <button type="submit">Send Message</button>
                             </form>
                           </div>
