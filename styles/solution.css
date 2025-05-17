@@ -458,6 +458,15 @@ footer {
         margin-top: 0%;
     }
 }
+
+.why-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1f2937; /* gray-800 */
+  align-items: center;
+  text-align: center;
+  padding-bottom: 0%;
+}
   /* Necessary CSS for the sub-page upto here */
 
 
